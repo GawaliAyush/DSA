@@ -23,16 +23,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/GawaliAyush/DSA/tree/main/1051-height-checker/) | Easy |
+| [1122-relative-sort-array](https://github.com/GawaliAyush/DSA/tree/main/1122-relative-sort-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/GawaliAyush/DSA/tree/main/1051-height-checker/) | Easy |
+| [1122-relative-sort-array](https://github.com/GawaliAyush/DSA/tree/main/1122-relative-sort-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/GawaliAyush/DSA/tree/main/1051-height-checker/) | Easy |
+| [1122-relative-sort-array](https://github.com/GawaliAyush/DSA/tree/main/1122-relative-sort-array/) | Easy |
 ## Bubble Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1051-height-checker](https://github.com/GawaliAyush/DSA/tree/main/1051-height-checker/) | Easy |
+| [1122-relative-sort-array](https://github.com/GawaliAyush/DSA/tree/main/1122-relative-sort-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/GawaliAyush/DSA/tree/main/1122-relative-sort-array/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1122-relative-sort-array](https://github.com/GawaliAyush/DSA/tree/main/1122-relative-sort-array/) | Easy |
 <!---LeetCode Topics End-->
