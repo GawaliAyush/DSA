@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0189-rotate-array](https://github.com/GawaliAyush/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/GawaliAyush/DSA/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GawaliAyush/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/GawaliAyush/DSA/tree/main/0169-majority-element/) | Easy |
+| [0189-rotate-array](https://github.com/GawaliAyush/DSA/tree/main/0189-rotate-array/) | Medium |
 | [1051-height-checker](https://github.com/GawaliAyush/DSA/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/GawaliAyush/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GawaliAyush/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
@@ -65,4 +67,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GawaliAyush/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/GawaliAyush/DSA/tree/main/0189-rotate-array/) | Medium |
 <!---LeetCode Topics End-->
