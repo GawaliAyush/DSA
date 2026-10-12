@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/GawaliAyush/DSA/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/GawaliAyush/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GawaliAyush/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/GawaliAyush/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/GawaliAyush/DSA/tree/main/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/GawaliAyush/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/GawaliAyush/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/GawaliAyush/DSA/tree/main/0283-move-zeroes/) | Easy |
+| [2149-rearrange-array-elements-by-sign](https://github.com/GawaliAyush/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -102,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/GawaliAyush/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/GawaliAyush/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
