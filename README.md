@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/GawaliAyush/DSA/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GawaliAyush/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/GawaliAyush/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0053-maximum-subarray](https://github.com/GawaliAyush/DSA/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/GawaliAyush/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/GawaliAyush/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/GawaliAyush/DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0031-next-permutation](https://github.com/GawaliAyush/DSA/tree/main/0031-next-permutation/) | Medium |
 | [0075-sort-colors](https://github.com/GawaliAyush/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0189-rotate-array](https://github.com/GawaliAyush/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/GawaliAyush/DSA/tree/main/0283-move-zeroes/) | Easy |
