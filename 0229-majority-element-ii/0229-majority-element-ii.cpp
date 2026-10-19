@@ -9,6 +9,9 @@ public:
             mp[nums[i]]++;
             if(mp[nums[i]]==mm+1){
                 ans.push_back(nums[i]);}
+            if(ans.size()==2){
+                break;
+            }
             }
         
         
