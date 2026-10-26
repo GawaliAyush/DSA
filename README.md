@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/GawaliAyush/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/GawaliAyush/DSA/tree/master/0509-fibonacci-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/GawaliAyush/DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/GawaliAyush/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/GawaliAyush/DSA/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/GawaliAyush/DSA/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/GawaliAyush/DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/GawaliAyush/DSA/tree/main/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/GawaliAyush/DSA/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/GawaliAyush/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1122-relative-sort-array](https://github.com/GawaliAyush/DSA/tree/main/1122-relative-sort-array/) | Easy |
+| [2965-find-missing-and-repeated-values](https://github.com/GawaliAyush/DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3318-find-x-sum-of-all-k-long-subarrays-i](https://github.com/GawaliAyush/DSA/tree/main/3318-find-x-sum-of-all-k-long-subarrays-i/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/GawaliAyush/DSA/tree/main/0054-spiral-matrix/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/GawaliAyush/DSA/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [2965-find-missing-and-repeated-values](https://github.com/GawaliAyush/DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
