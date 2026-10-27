@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0189-rotate-array](https://github.com/GawaliAyush/DSA/tree/main/0189-rotate-array/) | Medium |
+| [0268-missing-number](https://github.com/GawaliAyush/DSA/tree/main/0268-missing-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/GawaliAyush/DSA/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/GawaliAyush/DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 ## Dynamic Programming
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/GawaliAyush/DSA/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/GawaliAyush/DSA/tree/main/0189-rotate-array/) | Medium |
 | [0229-majority-element-ii](https://github.com/GawaliAyush/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/GawaliAyush/DSA/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/GawaliAyush/DSA/tree/main/0283-move-zeroes/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/GawaliAyush/DSA/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/GawaliAyush/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/GawaliAyush/DSA/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/GawaliAyush/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/GawaliAyush/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/GawaliAyush/DSA/tree/main/0268-missing-number/) | Easy |
 | [1051-height-checker](https://github.com/GawaliAyush/DSA/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/GawaliAyush/DSA/tree/main/1122-relative-sort-array/) | Easy |
 ## Counting Sort
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/GawaliAyush/DSA/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0169-majority-element](https://github.com/GawaliAyush/DSA/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/GawaliAyush/DSA/tree/main/0229-majority-element-ii/) | Medium |
+| [0268-missing-number](https://github.com/GawaliAyush/DSA/tree/main/0268-missing-number/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/GawaliAyush/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1122-relative-sort-array](https://github.com/GawaliAyush/DSA/tree/main/1122-relative-sort-array/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/GawaliAyush/DSA/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/GawaliAyush/DSA/tree/main/0136-single-number/) | Easy |
+| [0268-missing-number](https://github.com/GawaliAyush/DSA/tree/main/0268-missing-number/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/GawaliAyush/DSA/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0268-missing-number](https://github.com/GawaliAyush/DSA/tree/main/0268-missing-number/) | Easy |
 <!---LeetCode Topics End-->
